@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi there 👋 I's [iguerra94!](https://github.com/iguerra94)
+I'm a Frontend developer that loves to code in [React](https://reactjs.org).
 
-<!--
-**iguerra94/iguerra94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/ivanguerra09/">
+<img align="left" alt="Ivan Guerra LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
+
+<br />
+
+## What i'm up to
+
+- 🔭 I’m currently working @ 
+- 🌱 I’m currently working with
+
+<br />
+
+## Languages and Tools
+
+---
+
+![iguerra94's github stats](https://github-readme-stats.vercel.app/api?username=iguerra94&show_icons=true&hide_border=true)
