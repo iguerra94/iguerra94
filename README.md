@@ -1,4 +1,5 @@
-## Hi there 👋 I's [iguerra94!](https://github.com/iguerra94)
+## Hi there 👋 It's [iguerra94!](https://github.com/iguerra94)
+
 I'm a Frontend developer that loves to code in [React](https://reactjs.org).
 
 <br/>
@@ -9,18 +10,26 @@ I'm a Frontend developer that loves to code in [React](https://reactjs.org).
 
 <br />
 
-<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
+<img align="right" alt="GIF" src="./assets/avatar.jpeg" width="240px" />
 
 <br />
 
 ## What i'm up to
 
-- 🔭 I’m currently working @ 
-- 🌱 I’m currently working with
+- 🔭 I’m currently working @ [Box Custodia y Gestión Digital](https://www.boxcustodia.com/cms/)
+- 🌱 I’m currently working with [React](https://reactjs.org) and [Angular](https://angular.io).
 
 <br />
 
 ## Languages and Tools
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
 ---
 
