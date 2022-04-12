@@ -16,8 +16,8 @@ I'm a Frontend developer that loves to code in [React](https://reactjs.org).
 
 ## What i'm up to
 
-- 🔭 I’m currently working @ [Box Custodia y Gestión Digital](https://www.boxcustodia.com/cms/)
-- 🌱 I’m currently working with [React](https://reactjs.org) and [Angular](https://angular.io).
+- 🔭 I’m currently working @
+- 🌱 I’m currently working with
 
 <br />
 
