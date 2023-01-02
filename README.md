@@ -1,6 +1,6 @@
 ## Hi there 👋 It's [iguerra94!](https://github.com/iguerra94)
 
-I'm a Frontend developer that loves to code in [React](https://reactjs.org).
+I'm a FullStack developer that loves to code in [React](https://reactjs.org) and [NodeJS](https://nodejs.org).
 
 <br/>
 
@@ -16,8 +16,8 @@ I'm a Frontend developer that loves to code in [React](https://reactjs.org).
 
 ## What i'm up to
 
-- 🔭 I’m currently working @
-- 🌱 I’m currently working with
+- 🔭 I’m currently working @ DinoCloud
+- 🌱 I’m currently working with React, Material UI, Ionic Framework and Nodejs with Nest.js
 
 <br />
 
@@ -26,10 +26,11 @@ I'm a Frontend developer that loves to code in [React](https://reactjs.org).
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png"></code>
 
 ---
 
